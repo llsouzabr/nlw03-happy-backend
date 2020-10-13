@@ -27,20 +27,16 @@ Workshop Rockseat NextLevelWeek 03 (2020-10-13) - Trilha OmniStack (Avançado)
   * Após instalado e executar o `yarn tsc --init`, editar o arquivo `tsconfig.json`, alterando o target de '**es5**' para '**es2017**'
 
 * ts-node-dev
-    
+
   ```bash
   yarn add ts-node-dev -D
   ```
 
-  * Existem dois mapas free para utilizar:
-    * https://www.openstreetmap.org
-    * https://www.mapbox.org => Para este mapa é necessário cadastro prévio. Após cadastro:
-      * copiar o token da API
-      * criar um arquivo .env na raiz do App (./web) contendo
-      ```bash
-      REACT_APP_MAPBOX_TOKEN=<<SEU_TOKEN_VAI_AQUI>>
-      ```
-      * Reiniciar a App
+* pacotes para BD
+
+  ```bash
+  yarn add typeorm sqlite3
+  ```
 
 ---
 
