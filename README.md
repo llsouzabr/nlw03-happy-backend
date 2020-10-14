@@ -68,6 +68,13 @@ Workshop Rockseat NextLevelWeek 03 (2020-10-13) - Trilha OmniStack (Avançado)
   yarn add @types/yup -D
   ```
 
+* cors
+
+  ```bash
+  yarn add cors
+  yarn add @types/cors -D
+  ```
+
 ---
 
 ## Linguagens
