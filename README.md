@@ -38,6 +38,16 @@ Workshop Rockseat NextLevelWeek 03 (2020-10-13) - Trilha OmniStack (Avançado)
   yarn add typeorm sqlite3
   ```
 
+  * Após instalação adicionar script no packages.json
+
+  ```json
+  "typeorm": "ts-node-dev ./node_modules/typeorm/cli.js"
+  ```
+
+  * Para criar uma migration: `yarn typeorm migration:create -n create_orphanages`
+  * Para rodar uma migration: `yarn typeorm migration:run`
+  * Para rollback: `yarn typeorm migration:revert`
+
 ---
 
 ## Linguagens
