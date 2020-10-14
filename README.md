@@ -59,7 +59,13 @@ Workshop Rockseat NextLevelWeek 03 (2020-10-13) - Trilha OmniStack (Avançado)
 
   ```bash
   yarn add express-async-errors
-  
+  ```
+
+* yup
+
+  ```bash
+  yarn add yup
+  yarn add @types/yup -D
   ```
 
 ---
