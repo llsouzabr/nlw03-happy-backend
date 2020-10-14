@@ -48,6 +48,13 @@ Workshop Rockseat NextLevelWeek 03 (2020-10-13) - Trilha OmniStack (Avançado)
   * Para rodar uma migration: `yarn typeorm migration:run`
   * Para rollback: `yarn typeorm migration:revert`
 
+* multer (para upload de imagens)
+
+  ```bash
+  yarn add multer
+  yarn add @types/multer -D
+  ```
+
 ---
 
 ## Linguagens
