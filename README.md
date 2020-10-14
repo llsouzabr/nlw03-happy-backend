@@ -55,6 +55,13 @@ Workshop Rockseat NextLevelWeek 03 (2020-10-13) - Trilha OmniStack (Avançado)
   yarn add @types/multer -D
   ```
 
+* express-async-errors
+
+  ```bash
+  yarn add express-async-errors
+  
+  ```
+
 ---
 
 ## Linguagens
