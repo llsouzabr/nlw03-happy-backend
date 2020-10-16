@@ -106,3 +106,5 @@ dist
 
 
 uploads/1*.*
+
+src/database/database.sqlite
